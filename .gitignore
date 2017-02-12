@@ -1,3 +1,4 @@
 SocketServer/bin/Debug/SocketServer.exe
 SocketServer/bin/
 SocketServer/obj/
+*.suo
